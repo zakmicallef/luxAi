@@ -1,0 +1,14 @@
+{
+  "name": "luxai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lux-ai/2021-challenge": "^3.1.0"
+  }
+}
